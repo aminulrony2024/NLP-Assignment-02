@@ -162,7 +162,3 @@ class InformationRetrieval():
 		return doc_IDs_ordered
  
 		
-
-
-
-
